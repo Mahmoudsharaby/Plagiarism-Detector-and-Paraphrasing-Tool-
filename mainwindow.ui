@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1217</width>
+    <height>655</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>Segoe UI Semibold</family>
+    <pointsize>12</pointsize>
+    <bold>true</bold>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="toolTip">
+    <string/>
+   </property>
+   <property name="inputMethodHints">
+    <set>Qt::ImhMultiLine</set>
+   </property>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>810</x>
+      <y>120</y>
+      <width>100</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Clear</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>810</x>
+      <y>70</y>
+      <width>100</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Check</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>10</y>
+      <width>103</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Voice 1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Voice 2</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Voice 3</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Voice 4</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Voice 5</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Voice 6</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="pushButton_7">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>10</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Read</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>141</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Brute Force</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>KMP</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Rabin Karp</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Boyer Moore 1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Boyer Moore 2</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPlainTextEdit" name="plainTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>60</y>
+      <width>781</width>
+      <height>201</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPlainTextEdit{
+color: black;
+background: white;
+}</string>
+    </property>
+    <property name="plainText">
+     <string/>
+    </property>
+    <property name="placeholderText">
+     <string>Enter The Content of The Document Here</string>
+    </property>
+   </widget>
+   <widget class="QPlainTextEdit" name="plainTextEdit_2">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>270</y>
+      <width>891</width>
+      <height>301</height>
+     </rect>
+    </property>
+    <property name="placeholderText">
+     <string>Your Answer Will Appear Here</string>
+    </property>
+   </widget>
+   <widget class="QSlider" name="SpeakerSpeed">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>20</y>
+      <width>160</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <property name="orientation">
+     <enum>Qt::Horizontal</enum>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>10</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Speaker Speed: </string>
+    </property>
+    <property name="textFormat">
+     <enum>Qt::AutoText</enum>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>970</x>
+      <y>570</y>
+      <width>100</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Exit</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_4">
+    <property name="geometry">
+     <rect>
+      <x>980</x>
+      <y>10</y>
+      <width>141</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Developer Mode</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>120</y>
+      <width>251</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Segoe UI Emoji</family>
+      <pointsize>11</pointsize>
+      <bold>false</bold>
+     </font>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1217</width>
+     <height>28</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

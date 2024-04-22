@@ -1,0 +1,3544 @@
+
+1. AWKWARD
+
+Syn:   clumsy ungainly ponderous rough
+
+Ant:   clever dexterous apt skilful
+
+2. APARENT
+
+Syn:   evident obvious perceptible distinct
+
+Ant:   masked obscure indistinct doubtful
+
+3. ALLURE
+
+Syn:   entice fascinate tempt seduce 
+ 
+Ant:   repulse repel deter distaste
+
+4. ABORTIVE
+
+Syn:   vain useless fruitless unproductive
+
+Ant:   effectual productive successful progressive
+
+5. ABOMINABLE
+
+Syn:   odious detestable repugnant aversion
+
+Ant:   likeable pleasant affectionate enjoyable
+
+6. ALLAY
+
+Syn:   pacify soothe lighten assuage
+
+Ant:   aggravate heighten agitate excite
+
+7. AXIOM
+
+Syn:   maxim saying dictum truth
+
+
+Ant:   absurdity blunder ridiculousness irrelevant
+
+8. ASSIDOUS
+
+Syn:   constant diligent attentive persevering
+
+Ant:   indifference careless indolent lethargic
+
+9. ABJURE
+
+Syn:   forsake renounce retract revoke
+
+Ant:   approve sanction patronise adopt
+
+10. ABJECT
+
+Syn:   despicable servile base contemptible
+
+Ant:   exalted commendable praiseworthy imposing
+
+11. AVERSION
+
+ 
+Syn:   dislike hatred indifferent apathy
+
+Ant:   affection fondness niceness kindness
+
+12. AUTHENTIC
+
+Syn:   genuine reliable valid guaranteed
+
+Ant:   fictitious counterfeit unreal false
+
+13. AUDACITY
+
+Syn:   boldness arrogance insolence haughtiness
+
+Ant:   mildness humility cowardice submission
+
+14. ASTUTE
+
+Syn:   clever intelligent wise brilliant
+
+Ant:   dull unintelligent shallow stolid
+
+15. ABETTOR
+ 
+
+Syn:   assistant accomplice colleague associate
+
+Ant:   opponent adversary antagonist rival
+
+16. ABATE
+
+Syn:   moderate mitigate lessen decrease
+
+Ant:   aggravate intensify augment supplement
+
+17. ARRAIGN
+
+Syn:   charge blame accuse complain
+
+Ant:   exculpate pardon condone exonerate
+
+18. APATHY
+
+Syn:   unconcern indifference insensitivity aloofness
+
+Ant:   concern care anxiety eagerness
+ 
+ 
+19. ALIEN
+
+Syn:   foreigner outsider stranger emigrant
+
+Ant:   native citizen resident occupant
+
+20. ALACRITY
+
+Syn:   swiftness briskness promptness speed
+
+Ant:   laziness sluggishness indolence lethargy
+
+21. AFFRONT
+
+Syn:   provoke exasperate indignity irreverence
+
+Ant:   conciliate appease mollify assuage
+
+22. ADVERSITY
+
+Syn:   misfortune calamity misery affliction
+
+Ant:   prosperity fortune assistance favour
+ 
+
+ 
+ 
+
+23. ANTIQUE
+
+Syn:   ancient old fashioned primitive of past
+
+Ant:   modern recent novelty vogue
+
+24. ANTIPATHY
+
+Syn:   hostility aversion disillusion dislike
+
+Ant:   admiration approval fascination devotion
+
+25. AMPLIFY
+
+Syn:   enlarge extend dialation elevate
+
+Ant:   curtail lessen diminution contraction
+
+26. AMASS
+
+Syn:   gather accumulate store collect
+
+ 
+
+ 
+ 
+Ant:   disperse dissipate spend scatter
+
+27. ALLEVIATE
+
+Syn:   abate relieve mitigate lessen
+
+Ant:   intensify augment aggravate enhance
+
+28. ADMONISH
+
+Syn:   counsel reprove warm chastise
+
+Ant:   approve applaud praise flattery
+
+29. ADJACENT
+
+Syn:   adjoining beside proximity closeness
+
+Ant:   distant separate remoteness aloofness
+
+30. ADHERENT
+
+Syn:   follower disciple dependent supporter
+ 
+
+ 
+ 
+
+Ant:   rival adversary opponent antagonist
+
+31. ACCOMPLISH
+
+Syn:   attain succeed triumph exploit
+
+Ant:   forsake deter disappoint collapse
+
+32. ABSOLVE
+
+Syn:   pardon forgive reprieve relent
+
+Ant:   compel accuse charge blind
+
+33. ACRIMONY
+
+Syn:   harshness bitterness inhumanity enmity
+
+Ant:   sweetness courtesy humanity benevolence
+
+34. ACCUMULATION
+
+ 
+
+ 
+ 
+Syn:   store amass preservation conservation
+
+Ant:   scattering dissipation separation division
+
+35. ACCORD
+
+Syn:   agreement harmony consonance unison
+
+Ant:   diagreement denial controversy discord
+
+36. ABOUND
+
+Syn:   flourish swell teem plentiful
+
+Ant:   deficient destitute want scarce
+
+37. ADAMANT
+
+Syn:   stubborn obdurate inflexible rigid
+
+Ant:   flexible soft suppleness tender
+
+38. ABASH
+ 
+
+ 
+ 
+
+Syn:   discourage confound embarrass discompose
+
+Ant:   encourage uphold embolden hearten
+
+39. ADJUNCT
+
+Syn:   appendage complement addition joining
+
+Ant:   lessening separation subtraction removal
+
+40. ADROIT
+
+Syn:   proficient expert skilful adept
+
+Ant:   inept clumsy unskilled awkward
+
+41. BUSTLE
+
+Syn:   haste tumult stir flurry
+
+Ant:   slowness sluggishness quiet inertness
+
+ 
+
+ 
+ 
+42. BRITTLE
+
+Syn:   frail fragile delicate breakable
+
+Ant:   tough enduring unbreakable strong
+
+43. BLEMISH
+
+Syn:   fault smirch stigma stain
+
+Ant:   purity impeccable spotless stainless
+
+44. BLEAK
+
+Syn:   dismal gloomy chilly dreary
+
+Ant:   bright pleasant balmy cheerful
+
+45. BLAME
+
+Syn:   reprove upbraid censure reproach
+
+Ant:   commend applaud laud praise
+ 
+
+ 
+ 
+
+46. BENEVOLENCE
+
+Syn:   humanity generosity charity liberality
+
+Ant:   malevolence inhumanity malignity unkindness
+
+47. BARBAROUS
+
+Syn:   uncivilized savage untamed brutal
+
+Ant:   cultured humane refined gentle
+
+48. BAFFLE
+
+Syn:   confound elude frustrate perplex
+
+Ant:   poise composure facilitate co-operate
+
+49. BEWITCHING
+
+Syn:   magical fascinating tantalizing spell binding
+
+ 
+
+ 
+ 
+Ant:   repulsive repugnant nauseating disgusting
+
+50. CRITERION
+
+Syn:   measurement test standard touchstone
+
+Ant:   fancy probability haphazard conjecture
+
+51. COVETOUS
+
+Syn:   cupidity avarice greed voracity
+
+Ant:   liberality benevolence selfless magnanimous
+
+52. CORPULENT
+
+Syn:   obese ugly fat awkward
+
+Ant:   thin lean slim delicate
+
+53. CONVERT
+
+Syn:   change transform transmute proselytise
+ 
+
+ 
+ 
+
+Ant:   persist maintain enduring perpetual
+
+54. CONVENIENT
+
+Syn:   handy suited comfortable advantageous
+
+Ant:   unsuitable tedious unpractical fatiguing
+
+55. CONTRARY
+
+Syn:   dissimilar conflicting contradictory opposite
+
+Ant:   similar alike homogeneous resembling
+
+56. CONTRADICT
+
+Syn:   impugn deny oppose confront
+
+Ant:   approve confirm sanction endorse
+
+57. CONTEMPT
+
+ 1
+
+ 
+ 
+Syn:   scorn disregard disdain despicable
+
+Ant:   regard approval praise recommend
+
+58.CONSTERNATION
+
+Syn:   fear disappointment dismay hopelessness
+
+Ant:   peace repose calm fearless
+
+59. CONSPICUOUS
+
+Syn:   distinguished prominent obvious visible
+
+Ant:   concealed obscure hidden unapparent
+
+60. CONSOLIDATE
+
+Syn:   combine condense compact strong
+
+Ant:   separate sever weak scattering
+
+61. CONSEQUNCE
+ 1
+
+ 
+ 
+
+Syn:   effect outcome repercussion result
+
+Ant:   origin start beginning incipient
+
+62. CONSENT
+
+Syn:   agree permit exceed assent
+
+Ant:   object disagree dissent differ
+
+63. CONSCIOUS
+
+Syn:   aware apprised knowledge informed
+
+Ant:   unaware ignorant unfeeling faint
+
+64. CONCEDE
+
+Syn:   yield assent permit sanction
+
+Ant:   deny reject dissent disallow
+
+ 1
+
+ 
+ 
+65. COMPRISE
+
+Syn:   include contain consist compose
+
+Ant:   reject lack exclude except
+
+66.COMPASSION
+
+Syn:   kindness sympathy clemency commiseration
+
+Ant:   cruelty barbarity persecution apathy
+
+67. CONCUR
+
+Syn:   approve agree consent endorse
+
+Ant:   differ disagree dissent oppose
+
+68. COMMODIOUS
+
+Syn:   convenient suitable roomy comfortable
+
+Ant:   inconvenient unsuitable uncomfortable confined
+ 1
+
+ 
+ 
+
+69. COLLISION
+
+Syn:   encounter clash conflict dissenting
+
+Ant:   agreement harmony compatible union
+
+70. CHERISH
+
+Syn:   nurture treasure foster encourage
+
+Ant:   abandon forsake renounce discard
+
+71. CHASTISE
+
+Syn:   punish admonish scold reprove
+
+Ant:   cheer comfort encourage stimulate
+
+72. CHASTE
+
+Syn:   virtuous pure honourable immaculate
+
+ 1
+
+ 
+ 
+Ant:   defined licentious sullied lustful
+
+73. CESSATION
+
+Syn:   intermission pause discontinuity hindrance
+
+Ant:   continuity perpetuation unceasing prolongation
+
+74. CATASTROPHE
+
+Syn:   disaster calamity misfortune mishap
+
+Ant:   prosperity blessing restoration resurgence
+
+75. CARICATURE
+
+Syn:   exaggeration imitation ridicule misrepresentation
+
+Ant:   travesty parody exactness precision
+
+76. CARESS
+
+Syn:   fondle embrace hug snuggle
+ 
+
+ 
+ 
+
+Ant:   strike repulse spurn displease
+
+77. CAPTIVITY
+
+Syn:   imprisonment confinement apprehend restrain
+
+Ant:   freedom liberty liberation release
+
+78. CAPTIVATE
+
+Syn:   charm fascinate enchant lure
+
+Ant:   disillusion offend scorn despise
+
+79. CAPTIOUS
+
+Syn:   irritate fretful critical carping
+
+Ant:   appreciative considerate laudatory thoughtful
+
+80. CAPABLE
+
+ 
+
+ 
+ 
+Syn:   competent suitable qualified able
+
+Ant:   incompetent inefficient imbecile inept
+
+81. CALUMNY
+
+Syn:   defamation aspersion accusation libel
+
+Ant:   commendation praise vindication goodwill
+
+82. CALLOUS
+
+Syn:   obdurate unfeeling heartless indifferent
+
+Ant:   compassionate tender kind sympathetic
+
+83. CALCULATE
+
+Syn:   enumerate estimate evaluate consider
+
+Ant:   miscalculate blunder predetermine misconceive
+
+84. CALAMITY
+ 
+
+ 
+ 
+
+Syn:   adversity misfortune misery mishap
+
+Ant:   happiness benefit prosperity fortune
+
+85. CAVITY
+
+Syn:   depth depression hole aperture
+
+Ant:   elevation projection mound height
+
+86. CEASE
+
+Syn:   terminate pause desist discontinue
+
+Ant:   commence continue initiate originate
+
+87. CIRCUMLOCUTION
+
+Syn:   redundancy verbosity tediousness verbiage
+
+Ant:   terseness compression directness brevity
+
+ 
+
+ 
+ 
+88. COMMOTION
+
+Syn:   turmoil disturbance agitation excitement
+
+Ant:   tranquility stillness quietness calm
+
+89. DISASTER
+
+Syn:   misfortune calamity mishap catastrophe
+
+Ant:   prosperity boon happiness auspicious
+
+90. DESPICABLE
+
+Syn:   contemptible worthless shameless base
+
+Ant:   worthy decent honourable respectable
+
+91. DISDAIN
+
+Syn:   detest despise loathe scorn
+
+Ant:   approve praise love laud
+ 
+
+ 
+ 
+
+92. DERIDE
+
+Syn:   mock taunt ridicule jeer
+
+Ant:   inspire encourage stimulate comfort
+
+93. DEPRIVE
+
+Syn:   despoil divest dispossess disinherit
+
+Ant:   restore renew invest endow
+
+94. DEPLORE
+
+Syn:   lament bemoan complain regret
+
+Ant:   rejoice cheer applaud celebrate
+
+95. DENOUNCE
+
+Syn:   indict condemn censure reprimand
+
+ 2
+
+ 
+ 
+Ant:   praise commend vindicate laud
+
+96. DEMOLISH
+
+Syn:   ruin devastate dismantle raze
+
+Ant:   repair construct create erect
+
+97. DELUSION
+
+Syn:   deception hallucination illusion fallacy
+
+Ant:   reality certainty veracity fact
+
+98. DELICIOUS
+
+Syn:   palatable tasteful appetizing dainty
+
+Ant:   distasteful unsavoury tolerable inedible
+
+99. DELIBRATE
+
+Syn:   ponder intentional mediate consider
+
+Ant:   rash sudden indifferent discard
+
+100. DEGRADATION
+
+Syn:   disagree dishonour humiliation debase
+
+Ant:   exaltation praise triumphant honour
+
+101. DEFRAY
+
+Syn:   meet bear spend pay
+
+Ant:   declaim decline refuse abjure
+
+102. DEFILE
+
+Syn:   contaminate pollute profane desecrate
+
+Ant:   purity sanctity cleanse disinfect
+
+103. DEFICIENT
+
+ 2
+
+ 
+ 
+Syn:   scanty inadequate lacking wanting
+
+Ant:   adequate ample sufficient abundant
+
+104. DEFER
+
+Syn:   prolong suspend postpone delay
+
+Ant:   accelerate expedite stimulate hasten
+
+105. DEFAULT
+
+Syn:   failure omission negligence lapse
+
+Ant:   perfection vigilance attentive observance
+
+106. DEDICATE
+
+Syn:   devote consecrate loyal surrender
+
+Ant:   refuse negate prohibit reject
+
+107. DECIPHER
+ 2
+
+ 
+ 
+
+Syn:   interpret reveal decode transcribe
+
+Ant:   misinterpret distort confuse pervert
+
+108. DECEIT
+
+Syn:   deception artifice treachery duplicity
+
+Ant:   veracity sincerity truth honesty
+
+109. DECAY
+
+Syn:   collapse decomposition deteriorate putrefication
+
+Ant:   flourish progress growth development
+
+110. DAUNT
+
+Syn:   discourage frighten agitate intimidate
+
+Ant:   encourage animate embolden inspire
+
+ 2
+
+ 
+ 
+111. DAINTY
+
+Syn:   elegant delicate refined exquisite
+
+Ant:   clumsy coarse unpleasant insipid
+
+112. EXULT
+
+Syn:   brag rejoice applaud triumph
+
+Ant:   deplore lament bemoan grieve
+
+113. EXPLICIT
+
+Syn:   definite intelligible obvious apparent
+
+Ant:   hidden vague unintelligible doubtful
+
+114. EXTEMPT
+
+Syn:   release excuse exclude absolve
+
+Ant:   confine hold retard enforce
+ 
+
+ 
+ 
+
+115. EXALT
+
+Syn:   extol dignify glorify elevate
+
+Ant:   dishonour disgrace degrade denounce
+
+116. EVIDENT
+
+Syn:   obvious apparent distinct conspicuous
+
+Ant:   obscure concealed hidden invisible
+
+117. EVADE
+
+Syn:   avoid elude dodge shun
+
+Ant:   acknowledge confront verify confirm
+
+118. ETERNAL
+
+Syn:   perpetual endless imperishable immortal
+
+ 
+
+ 
+ 
+Ant:   temporary momentary transient fleeting
+
+119. ESTEEM
+
+Syn:   respect regards honour reverence
+
+Ant:   ridicule spurn despise humiliate
+
+120. ERADICATE
+
+Syn:   destroy exterminate abolish remove
+
+Ant:   secure plant restore revive
+
+121. EQUIVOCAL
+
+Syn:   uncertain hazy ambiguous vague
+
+Ant:   obvious lucid clear plain
+
+122. EPITOME
+
+Syn:   precise example miniature summary
+ 
+
+ 
+ 
+
+Ant:   increment expansion lengthen enlargement
+
+123. ENORMOUS
+
+Syn:   colossal mammoth immense spacious
+
+Ant:   insignificant diminutive trivial negligible
+
+124. ENLIGHTEN
+
+Syn:   elucidate educate illumine inculcate
+
+Ant:   ignorance distortion delude obscure
+
+125. ENJOIN
+
+Syn:   direct counsel exhort command
+
+Ant:   prohibit forbid revolt dissuade
+
+126. ENDURANCE
+
+ 
+
+ 
+ 
+Syn:   submission forbearance tolerance patience
+
+Ant:   break down despair volatile agitating
+
+127. ENDOWMENT
+
+Syn:   grant benefit bequest gift
+
+Ant:   draw back damage loss disinherit
+
+128. ENDEAVOUR
+
+Syn:   undertake aspire venture struggle
+
+Ant:   cease quit shun idle
+
+129. ENCUMBRANCE
+
+Syn:   hindrance obstacle burden impediment
+
+Ant:   incentive stimulant patronize vantage
+
+130. ENCROACH
+ 
+
+ 
+ 
+
+Syn:   infringe intrude trespass violate
+
+Ant:   avoid evade shun abide
+
+131. EMBRACE
+
+Syn:   cling hug adopt caress
+
+Ant:   reject neglect shun slight
+
+132. EMBEZZLE
+
+Syn:   forge swindle defraud peculate
+
+Ant:   redeem restitute reimburse compensate
+
+133. ELUCIDATE
+
+Syn:   enlighten clarify expound illustrate
+
+Ant:   equivocate confuse distort confound
+
+ 3
+
+ 
+ 
+134. ELOQUENCE
+
+Syn:   expression fluency peroration oration
+
+Ant:   halting stammering indistinct inarticulate
+
+135. ELIMINATE
+
+Syn:   expel oust exclude remove
+
+Ant:   restore accept retain include
+
+136. ELEVATE
+
+Syn:   dignify heighten promote raise
+
+Ant:   deprecate denounce lower recline
+
+137. ELEGANT
+
+Syn:   graceful distinguished refined polished
+
+Ant:   obnoxious unrefined ridiculous coarse
+ 3
+
+ 
+ 
+
+138. ELATION
+
+Syn:   joy exaltation delight enthusiasm
+
+Ant:   gloom despair depression melancholy
+
+139. EFFACE
+
+Syn:   destroy obliterate annihilate abolish
+
+Ant:   retain maintain regenerate resurrect
+
+140. ECSTASY
+
+Syn:   delight exultation over joy rapture
+
+Ant:   despair calamity doldrums depression
+
+141. ECCENTRIC
+
+Syn:   strange abnormal cranky odd
+
+ 3
+
+ 
+ 
+Ant:   natural conventional uniform methodical
+
+142. EARNEST
+
+Syn:   ardent sincere resolute determined
+
+Ant:   unheeding frivolous negligent careless
+
+143. EVASION
+
+Syn:   prevaricate avoid neglect pretext
+
+Ant:   response defence compliance action
+
+144. FABRICATE
+
+Syn:   construct produce manipulate build
+
+Ant:   destroy dismantle wreck demolish
+
+145. FRUGALITY
+
+Syn:   economy providence thrift parsimony
+ 3
+
+ 
+ 
+
+Ant:   lavishness extravagance prodigality improvidence
+
+146. FRIVOLOUS
+
+Syn:   petty worthless capricious volatile
+
+Ant:   solemn significant essential pertinent
+
+147. FRANTIC
+
+Syn:   violent agitated frenzied wild
+
+Ant:   subdued genetic lucid coherent
+
+148. FRANCHISE
+
+Syn:   suffrage right privilege patronise
+
+Ant:   bondage oppression serfdom irresolute
+
+149. FRAGMENTS
+
+ 3
+
+ 
+ 
+Syn:   scraps residue segment section
+
+Ant:   total entire gross aggregate
+
+150. FRAGILE
+
+Syn:   weak infirm brittle frail
+
+Ant:   enduring tough robust tenacious
+
+151. FORSAKE
+
+Syn:   desert renounce relinquish disown
+
+Ant:   hold maintain retain claim
+
+152. FORMIDABLE
+
+Syn:   dangerous invincible redoubtable dreadful
+
+Ant:   harmless insignificant weak feeble
+
+153. FORERUNNER
+ 
+
+ 
+ 
+
+Syn:   precursor predecessor ancestor pioneer
+
+Ant:   descendant follower heir successor
+
+154. FOE
+
+Syn:   opponent antagonist adversary contender
+
+Ant:   comrade helper friend fellow
+
+155. FLUENT
+
+Syn:   fast smooth voluble glib
+
+Ant:   hesitant slow sluggish halting
+
+156. FLUCTUATE
+
+Syn:   deflect facilitate vary deviate
+
+Ant:   stable resolute constant inalterable
+
+ 
+
+ 
+ 
+157. FLOURISH
+
+Syn:   prosper triumph thrive blossom
+
+Ant:   decay collapse wither deteriorate
+
+158. FLIMSY
+
+Syn:   trifling transparent brittle unsubstantial
+
+Ant:   firm tenacious durable retentive
+
+159. FLEETING
+
+Syn:   transient temporary ephemeral transitory
+
+Ant:   enduring eternal perpetual unceasing
+
+160. FIDELITY
+
+Syn:   loyalty trustworthiness obedience devotion
+
+Ant:   treachery unfaithfulness chicanery defiance
+ 
+
+ 
+ 
+
+161. FICKLE
+
+Syn:   wavering unreliable unsteady volatile
+
+Ant:   resolute determined inalterable invariable
+
+162. FEUD
+
+Syn:   strife quarrel row contention
+
+Ant:   fraternity harmony reconciliation recompose
+
+163. FEROCIOUS
+
+Syn:   untamed barbarous fierce dangerous
+
+Ant:   gentle innocent benevolent sympathetic
+
+164. FEEBLE
+
+Syn:   weak frail impotent defenceless
+
+ 
+
+ 
+ 
+Ant:   strong robust vigorous resolute
+
+165. FATIGUE
+
+Syn:   weariness exhaustion exertion tiredness
+
+Ant:   vigour liveliness vivacity briskness
+
+166. FANTASY
+
+Syn:   imagination vision image visualization
+
+Ant:   reality substantiality actuality existence
+
+167. FANTASTIC
+
+Syn:   fanciful uncommon imaginary marvellous
+
+Ant:   ordinary normal customary common
+
+168. FANATICAL
+
+Syn:   narrow minded stubborn orthodox biased
+ 
+
+ 
+ 
+
+Ant:   liberal tolerant unprejudiced generous
+
+169. FALTER
+
+Syn:   fluctuate demur dither waver
+
+Ant:   persist endure stable unerring
+
+170. FALLACY
+
+Syn:   delusion mistake deception illusion
+
+Ant:   veracity truth honesty certainty
+
+171. FACSIMILE
+
+Syn:   miniature reproduction copy replica
+
+Ant:   distinction dissimilarity novelty originality
+
+172. FABULOUS
+
+ 4
+
+ 
+ 
+Syn:   legendry amazing remarkable marvellous
+
+Ant:   historical common mediocre substantial
+
+173. FACILE
+
+Syn:   dexterous quick skilful effortless
+
+Ant:   clumsy slow labourious arduous
+
+174. GUILE
+
+Syn:   cunning deceit duplicity chicanery
+
+Ant:   honesty frankness sincerity integrity
+
+175. GRUDGE
+
+Syn:   hatred aversion unwilling objection
+
+Ant:   benevolence affection goodwill kindness
+
+176. GRISLY
+ 4
+
+ 
+ 
+
+Syn:   disgusting atrocious monstrous loathsome
+
+Ant:   pleasing attractive beautiful alluring
+
+177. GRACIOUS
+
+Syn:   courteous beneficent magnificent dignified
+
+Ant:   rude unforgiving discourteous uncourtly
+
+178.   GORGEOUS
+
+Syn:   magnificent dazzling brilliant grand
+
+Ant:   dull unpretentious modest plain
+
+179. GULT
+
+Syn:   stuff satiate overflow cram
+
+Ant:   reduce abstain moderate restrain
+
+ 4
+
+ 
+ 
+180. GLOOM
+
+Syn:   obscurity darkness dejection disillusion
+
+Ant:   delight mirth exhilaration joviality
+
+181. GIGNATIC
+
+Syn:   huge enormous immense monstrous
+
+Ant:   small diminutive miniature slight
+
+182. GENUINE
+
+Syn:   real authentic creative original
+
+Ant:   deceptive spurious imitative derivative
+
+183. GENIAL
+
+Syn:   cheerful pleasant joyful affable
+
+Ant:   sullen dismal morose melancholy
+ 4
+
+ 
+ 
+
+184. GENEROUS
+
+Syn:   liberal unselfish benevolent hospitable
+
+Ant:   miserly stingy covetous greedy
+
+185. GARRULOUS
+
+Syn:   loquacious talkative communicative informative
+
+Ant:   reserved quiet taciturn reticent
+
+186. GALLANT
+
+Syn:   heroic intrepid valorous chivalrous
+
+Ant:   coward timid craven base
+
+187. GAUDY
+
+Syn:   garish brilliant glittering tawdry
+
+ 4
+
+ 
+ 
+Ant:   faded dull sober solemn
+
+188. HUSTLE
+
+Syn:   hurry haste bustle activity
+
+Ant:   lull quiet idle motionless
+
+189. HYPOCRISY
+
+Syn:   deception affectation trickery illusion
+
+Ant:   sincerity integrity honesty ingenuousness
+
+190. HIDEOUS
+
+Syn:   frightful shocking abominable monstrous
+
+Ant:   attractive alluring splendid appealing
+
+191. HERETIC
+
+Syn:   nonconformist secularist dissident offender
+ 
+
+ 
+ 
+
+Ant:   conformable adaptable religious believer
+
+192. HAZARD
+
+Syn:   presumption danger peril risk
+
+Ant:   conviction security assurance certainly
+
+193. HAUGHTY
+
+Syn:   arrogant pompous obstinate imperious
+
+Ant:   humble submissive modest inoffensive
+
+194. HARASS
+
+Syn:   irritable molest suppress tyranny
+
+Ant:   assist comfort tolerant connive
+
+195. HAPLESS
+
+ 
+
+ 
+ 
+Syn:   unfortunate ill-fated hostile doomed
+
+Ant:   fortunate lucky favoured satisfied
+
+196. HAPHAZARD
+
+Syn:   random sudden unsorted reckless
+
+Ant:   deliberate considered thoughtful discerning
+
+197. HAMPER
+
+Syn:   retard prevent hinder obstruct
+
+Ant:   promote facilitate foster assist
+
+198. HAGGARD
+
+Syn:   exhausted lean emaciated gaunt
+
+Ant:   exuberant active lively robust
+
+199. HOMELY
+ 
+
+ 
+ 
+
+Syn:   plain coarse unadorned simple
+
+Ant:   sauve polished dignified refined
+
+200. HAIL
+
+Syn:   greet welcome acclaim honour
+
+Ant:   disregard belittle avoid despise
+
+201. HEINOUS
+
+Syn:   outrageous vile awful wicked
+
+Ant:   righteous pleasing exquisite appealing
+
+202. IRREPRESSIBLE
+
+Syn:   irresistible unconfined unhindered unshackled
+
+Ant:   composed hesitant submissive grave
+
+ 
+
+ 
+ 
+203. INVINCIBLE
+
+Syn:   unconquerable impregnable unsubdued unbeatable
+
+Ant:   effeminate languid crippled fragile
+
+204. INTIMIDATE
+
+Syn:   frighten dictate hopeless irresolute
+
+Ant:   console encourage appease hearten
+
+205. INTREPID
+
+Syn:   brave courageous valorous chivalrous
+
+Ant:   sacred frightened timid cowardly
+
+206. INTRICATE
+
+Syn:   tangled complicated formidable arduous
+
+Ant:   regulated orderly manageable ductile
+ 
+
+ 
+ 
+
+207. INTRIGUE
+
+Syn:   scheme conspiracy manipulation counterplot
+
+Ant:   candour sincerity bluntness honesty
+
+208. INTRINSIC
+
+Syn:   genuine fundamental inherent congenital
+
+Ant:   extraneous incidental extrinsic derived
+
+209. INVECTIVE
+
+Syn:   accusation censure malediction denunciation
+
+Ant:   approval acclamation admiration approbation
+
+210. INSTIL
+
+Syn:   inculcate inject infuse implant
+
+ 5
+
+ 
+ 
+Ant:   eradicate extract eliminate expel
+
+211. INSOLVENT
+
+Syn:   indigent destitute bankrupt defaulter
+
+Ant:   wealthy solvent affluent substantial
+
+212. INSIPID
+
+Syn:   tasteless vapid savourless unflavoured
+
+Ant:   delicious luscious pungent piquant
+
+213. INSINUATE
+
+Syn:   communicate allude hint suggest
+
+Ant:   conceal camouflage suppress mask
+
+214. INQUISITIVE
+
+Syn:   inquiring curious searching studious
+ 5
+
+ 
+ 
+
+Ant:   distracted negligent indifferent impassive
+
+215. INNOCUOUS
+
+Syn:   salutary wholesome innocent harmless
+
+Ant:   deleterious baneful insanitary injurious
+
+216. INGENUOUS
+
+Syn:   undisguised naïve candid guileless
+
+Ant:   wily crafty perfidious treacherous
+
+217. INFRINGE
+
+Syn:   violate encroach transgress trespass
+
+Ant:   comply concur conform observe
+
+218. INEVITABLE
+
+ 5
+
+ 
+ 
+Syn:   unavoidable ascertained imminent substantial
+
+Ant:   unlikely doubtful indefinite uncertain
+
+219. INGENIOUS
+
+Syn:   deft proficient dexterous adroit
+
+Ant:   unskilled incompetent immature unqualified
+
+220. INDULGE
+
+Syn:   gratify pamper comfort satisfy
+
+Ant:   annoy trouble torment displease
+
+221. INDOLENT
+
+Syn:   lazy listless languid sluggish
+
+Ant:   energetic vivacious prompt agile
+
+222. INDESPENSABLE
+ 5
+
+ 
+ 
+
+Syn:   essential expedient requisite unavoidable
+
+Ant:   superfluous redundant needless tranquility
+
+223. INDIGNATION
+
+Syn:   resentment ire wrath rage
+
+Ant:   modesty tranquility forbearance equanimity
+
+224. INDIGENCE
+
+Syn:   privation destitution insolvency penury
+
+Ant:   affluence abundance opulence luxury
+
+225. INCONGRUOUS
+
+Syn:   inappropriate absurd ridiculous awkward
+
+Ant:   compatible harmonious homogeneous consistent
+
+ 5
+
+ 
+ 
+226. INCOMPETENT
+
+Syn:   inefficient unskilled immature unqualified
+
+Ant:   dexterous skilled ingenious competent
+
+227. INCLINATION
+
+Syn:   disposition affection proneness propensity
+
+Ant:   neutrality indifference apathy unresponsive
+
+228. INCITE
+
+Syn:   instigate provoke motivate arouse
+
+Ant:   defer discourage restrain dissuade
+
+229. INCENTIVE
+
+Syn:   motive allurement inducement spur
+
+Ant:   dissuasion reluctance deterrence discouragement
+ 
+
+ 
+ 
+
+230. IMPUTE
+
+Syn:   attribute ascribe charge indict
+
+Ant:   exculpate support vindicate excuse
+
+231. IMPUDENCE
+
+Syn:   sauciness impertinence insolence arrogance
+
+Ant:   submissiveness modesty humility meekness
+
+232. IMPIOUS
+
+Syn:   irreligious unholy irreverent hypocritical
+
+Ant:   pious devout spiritual venerate
+
+233. IMPETUOUS
+
+Syn:   violent impulsive imprudence indiscretion
+
+ 
+
+ 
+ 
+Ant:   considerate composed discretion prudence
+
+234. IMPEDIMENT
+
+Syn:   hurdle obstruction hindrance retardation
+
+Ant:   assistance concurrence deliverance aid
+
+235. IMPARTIAL
+
+Syn:   just unbiased equitable evenhanded
+
+Ant:   prejudiced biased unjust inequitable
+
+236. IMPART
+
+Syn:   divulge bestow inform convey
+
+Ant:   withhold conceal suppress deny
+
+237. IMPAIR
+
+Syn:   diminish deteriorate decompose worsen
+ 
+
+ 
+ 
+
+Ant:   restore revive resurrect survive
+
+238. IMMUNITY
+
+Syn:   prerogative privilege exemption non-liability
+
+Ant:   blame censure prescription interdiction
+
+239. IMMINENT
+
+Syn:   impending brewing overhanging approaching
+
+Ant:   distant receding retreating withdrawing
+
+240. IMMERSE
+
+Syn:   submerge involve descend drown
+
+Ant:   emerge uncover restore recover
+
+241. IMMENSE
+
+ 
+
+ 
+ 
+Syn:   huge enormous gigantic colossal
+
+Ant:   puny insignificant paltry trifling
+
+242. IMMACULATE
+
+Syn:   unsullied spotless untarnished untainted
+
+Ant:   defiled tarnished obscene profane
+
+243. IMBECILE
+
+Syn:   weak senile feeble unsound
+
+Ant:   sane sagacious astute wise
+
+244. IMAGINARY
+
+Syn:   illusory visionary insubstantial subjective
+
+Ant:   factual tangible genuine evident
+
+245. IGNORANCE
+ 
+
+ 
+ 
+
+Syn:   illiteracy darkness unawareness unconsciousness
+
+Ant:   knowledge enlightenment apprehension recognition
+
+246. IGNOMINIOUS
+
+Syn:   disgraceful shameful dishonourable scandulous
+
+Ant:   dignified distinguished creditable stately
+
+247. JUVENILE
+
+Syn:   young tender youthful adolescent
+
+Ant:   dotage antiquated senile old
+
+248. JUSTIFY
+
+Syn:   defend exculpate warrant vindicate
+
+Ant:   impute arraigne accuse incriminate
+
+ 6
+
+ 
+ 
+249. JUST
+
+Syn:   honest impartial righteous upright
+
+Ant:   unequal unfair discriminatory unseasonable
+
+250. JUDICIOUS
+
+Syn:   thoughtful prudent discerning discriminating
+
+Ant:   irrational foolish misconception fatuous
+
+251. JUBILANT
+
+Syn:   rejoicing triumphant gay cheerful
+
+Ant:   melancholy depressing gloomy despondent
+
+252. JOVIAL
+
+Syn:   frolicsome cheerful merry exultant
+
+Ant:   solemn morose malcontent sad
+ 6
+
+ 
+ 
+
+253. JADED
+
+Syn:   tired exhausted fatigued languish
+
+Ant:   renewal recreation restorative refreshed
+
+254. JEJUNE
+
+Syn:   dull boring uninteresting monotonous
+
+Ant:   interesting exciting piquant thrilling
+
+255. KINDRED
+
+Syn:   relation species relative affinity
+
+Ant:   unrelated dissimilar heterogeneous disparate
+
+256. KEEN
+
+Syn:   sharp poignant eager acute
+
+ 6
+
+ 
+ 
+Ant:   vapid insipid blunt undesiring
+
+257. KNAVE
+
+Syn:   dishonest scoundrel vagabond rogue
+
+Ant:   paragon innocent benefactor idealist
+
+258. KNELL
+
+Syn:   death knell last blow demolish suppress
+
+Ant:   reconstruction rediscovery procreation resurrection
+
+259. KNOTTY
+
+Syn:   complicated difficult arduous onerous
+
+Ant:   simple manageable tractable flexible
+
+260. LUXURIANT
+
+Syn:   profuse abundant dense plentiful
+ 6
+
+ 
+ 
+
+Ant:   scanty meagre inadequate deficient
+
+261. LUSCIOUS
+
+Syn:   palatable delicious delectable delightful
+
+Ant:   unsavoury tart sharp sour
+
+262.LURE
+
+Syn:   attract entice tempt induce
+
+Ant:   repel dissuade confute threaten
+
+263. LUNACY
+
+Syn:   delusion insanity madness imbecility
+
+Ant:   normalcy sanity sagacity shrewdness
+
+264. LUDICROUS
+
+ 6
+
+ 
+ 
+Syn:   absurd bizarre preposterous grotesque
+
+Ant:   balanced congruous consistent solemn
+
+265. LUCID
+
+Syn:   sound rational coherent sane
+
+Ant:   obscure hidden incomprehensible unintelligible
+
+266. LISTLESS
+
+Syn:   lazy inattentive spiritless incurious
+
+Ant:   brisk attentive diligent agile
+
+267. LINGER
+
+Syn:   loiter prolong hesitate delay
+
+Ant:   hasten quicken dart hurry
+
+268. LIBERATE
+ 
+
+ 
+ 
+
+Syn:   emancipate rescue unshackle absolve
+
+Ant:   suppress menacle obstruct detain
+
+269. LIBERAL
+
+Syn:   magnanimous hospitality generous benevolence
+
+Ant:   stingy niggardly malevolent malicious
+
+270. LIABLE
+
+Syn:   accountable bound responsible likely
+
+Ant:   unaccountable apt to irresponsible exempt
+
+271. LENIENT
+
+Syn:   compassionate merciful moderate tolerant
+
+Ant:   cruel severe violent vehement
+
+ 71 / 131
+
+ 
+ 
+272. LAX
+
+Syn:   slack careless negligence indifferent
+
+Ant:   firm reliable meticulous scrupulous
+
+273. LAVISH
+
+Syn:   abundant excessive profuse extravagant
+
+Ant:   scarce deficient frugal conserve
+
+274. LASSITUDE
+
+Syn:   languor tiredness weariness lethargy
+
+Ant:   vivacity agility animate lively
+
+275. LAUDABLE
+
+Syn:   deserving honourable praiseworthy acceptable
+
+Ant:   vicious blame worthy venomous condemnable
+ 72 / 131
+
+ 
+ 
+
+276. LANGUID
+
+Syn:   pensive lethargic exhausted fatigued
+
+Ant:   lively animated refreshed restored
+
+277. LAMENT
+
+Syn:   grieve deplore regret bemoan
+
+Ant:   amuse entertain enliven solace
+
+278. LAG
+
+Syn:   retard falter linger dawdle
+
+Ant:   quicken accelerate expedite spurt
+
+279. LACONIC
+
+Syn:   brief condensed concise compact
+
+ 73 / 131
+
+ 
+ 
+Ant:   dilated profused diffuse wordy
+
+280. MUTUAL
+
+Syn:   joint identical correlative reciprocal
+
+Ant:   separate distinct divergent individual
+
+281. MUTINOUS
+
+Syn:   recalcitrant insurgent unruly revolutionary
+
+Ant:   submissive faithful compliant loyal
+
+282. MURKY
+
+Syn:   dusky dreary dismal bleak
+
+Ant:   bright shining luminous radiant
+
+283. MUNIFICENT
+
+Syn:   liberal hospitable benevolent kind
+ 74 / 131
+
+ 
+ 
+
+Ant:   frugal penurious moderate economical
+
+284. MULTITUDE
+
+Syn:   crowd throng mass swarm
+
+Ant:   minority handful paucity scarcity
+
+285. MOROSE
+
+Syn:   surly sulky sullen depressed
+
+Ant:   sprightly animated buoyant blithe
+
+286. MONOTONOUS
+
+Syn:   irksome tedious humdrum insipid
+
+Ant:   varied pleasant appealing captivating
+
+287. MOMENTOUS
+
+ 7
+
+ 
+ 
+Syn:   notable eventful consequential stirring
+
+Ant:   trivial insignificant commonplace immaterial
+
+288. MOLLIFY
+
+Syn:   appease assuage relieve mitigate
+
+Ant:   irritate infuriate aggravate exasperate
+
+289. MOLEST
+
+Syn:   pester harass vex misbehave
+
+Ant:   console soothe comfort cheer
+
+290. MODEST
+
+Syn:   reserved unpretentious humble courteous
+
+Ant:   audacious arrogant pompous vain
+
+291. MODERATE
+ 7
+
+ 
+ 
+
+Syn:   limited reasonable lenient temperate
+
+Ant:   excessive extravagant violent vehement
+
+292. MITIGATE
+
+Syn:   alleviate relieve lessen assuage
+
+Ant:   augment enhance intensify aggravate
+
+293. MIRACULOUS
+
+Syn:   marvelous extraordinary astounding amazing
+
+Ant:   ordinary trivial familiar natural
+
+294. MINUTE
+
+Syn:   diminutive miniature small microscopic
+
+Ant:   large colossal stupendous immense
+
+ 7
+
+ 
+ 
+295. METTLE
+
+Syn:   courage determination stamina spirit
+
+Ant:   timidity fear cowardice diffident
+
+296. MERITORIOUS
+
+Syn:   commendable admirable deserving praiseworthy
+
+Ant:   unworthy infamous disreputable culpable
+
+297. MERCURIAL
+
+Syn:   variable changeable unstable erratic
+
+Ant:   stable constant steady steadfast
+
+298. MENDACITY
+
+Syn:   falsehood deception perjury perfidious
+
+Ant:   probity honesty veracity candour
+ 7
+
+ 
+ 
+
+299. MELODIOUS
+
+Syn:   dulcet musical harmonious sweet
+
+Ant:   grating dissonant discordant rancour
+
+300. NUMEROUS
+
+Syn:   profuse various multitude plenteous
+
+Ant:   scarce deficient paucity sparse
+
+301. NULLIFY
+
+Syn:   cancel annul obliterate invalidate
+
+Ant:   confirm uphold empower endorse
+
+302. NOXIOUS
+
+Syn:   baneful injurious pernicious disastrous
+
+ 7
+
+ 
+ 
+Ant:   healing profitable innocuous salubrious
+
+303. NOVICE
+
+Syn:   tyro beginner debutant apprentice
+
+Ant:   veteran ingenious experienced mentor
+
+304. NOURISH
+
+Syn:   sustain nurture tend foster
+
+Ant:   exhaust starve weaken enervate
+
+305. NONCHALANT
+
+Syn:   indifferent negligent uncaring heedless
+
+Ant:   attentive considerate vigilant scrupulous
+
+306. NIMBLE
+
+Syn:   prompt brisk lively agile
+ 80 / 131
+
+ 
+ 
+
+Ant:   sluggish languid weary tardy
+
+307. NIGGARDLY
+
+Syn:   miserly covetous inadequacy deficiency
+
+Ant:   generous profuse redundant excessive
+
+308. NEGLIGENT
+
+Syn:   inattentive careless heedless perfunctory
+
+Ant:   vigilant careful considerate alert
+
+309. NEFARIOUS
+
+Syn:   detestable atrocious heinous unlawful
+
+Ant:   commendable worthy upright inoffensive
+
+310. NAUSEOUS
+
+ 81 / 131
+
+ 
+ 
+Syn:   unsavoury loathsome abominable repellent
+
+Ant:   commendable worthy benevolent inoffensive
+
+311. NATIVE
+
+Syn:   original vernacular indigenous aboriginal
+
+Ant:   alien extraneous exotic foreign
+
+312. NASTY
+
+Syn:   offensive defiled malevolent malignant
+
+Ant:   pleasing gratifying benevolent attractive
+
+313. NOMINAL
+
+Syn:   trifling insubstantial bare negligible
+
+Ant:   substantial considerable excessive exorbitant
+
+314. OVERWROUGHT
+ 82 / 131
+
+ 
+ 
+
+Syn:   excited agitated fervent intense
+
+Ant:   quiet tranquil composed cool
+
+315. OVERWHELM
+
+Syn:   triumph subjugate overpower vanquish
+
+Ant:   flounder falter restore impotent
+
+316. OVERSIGHT
+
+Syn:   omission error fault slip
+
+Ant:   precision observance circumspection caution
+
+317. OVERBEARING
+
+Syn:   oppressive domineering intimidating despotic
+
+Ant:   submissive humble lenient forbearing
+
+ 83 / 131
+
+ 
+ 
+318. OUTRAGE
+
+Syn:   offence maltreatment assault irreverent
+
+Ant:   praise favour esteem reverence
+
+319. OUTBREAK
+
+Syn:   eruption insurrection explosion outburst
+
+Ant:   compliance subjection passivity harmony
+
+320. OSTENTATION
+
+Syn:   display pretension vaunt pomposity
+
+Ant:   modesty constraint diffidence economy
+
+321. OSTENSIBLE
+
+Syn:   apparent evident obvious overt
+
+Ant:   concealed covert obscure vague
+ 84 / 131
+
+ 
+ 
+
+322. ORNAMENTAL
+
+Syn:   decorative adorned glamorous picturesque
+
+Ant:   unseemly plain blemished disfigured
+
+323. ORDAIN
+
+Syn:   order impose prescribe proclaim
+
+Ant:   revoke abolish violate abrogate
+
+324. ORACULAR
+
+Syn:   cryptic vague enigmatic profound
+
+Ant:   lucid distinct intelligible unambiguous
+
+325. OPAQUE
+
+Syn:   filmy dim obscure shady
+
+ 8
+
+ 
+ 
+Ant:   transparent bright translucent revealing
+
+326. ONEROUS
+
+Syn:   arduous troublesome inconvenient formidable
+
+Ant:   facile agreeable uncomplicated flexible
+
+327. OMINOUS
+
+Syn:   threatening inauspicious forebode menacing
+
+Ant:   consoling auspicious propitious comforting
+
+328. OFFSPRING
+
+Syn:   descendants siblings posterity progeny
+
+Ant:   ancestors forefathers pedigree progenitors
+
+329. OFFENSIVE
+
+Syn:   abhorrent arrogant insolent impudent
+ 8
+
+ 
+ 
+
+Ant:   docile compliant courteous captivating
+
+330. ODIOUS
+
+Syn:   abhorrent obnoxious prejudice malevolent
+
+Ant:   engaging fascinating endearing captivating
+
+331. OCCULT
+
+Syn:   latent ambiguous esoteric elusive
+
+Ant:   intelligible transparent fathomable scrutable
+
+332. OBVIOUS
+
+Syn:   evident apparent distinct conspicuous
+
+Ant:   obscure ambiguous indiscernible confusing
+
+333. OBSTRUCT
+
+ 8
+
+ 
+ 
+Syn:   impede prevent restrain retard
+
+Ant:   hasten encourage expedite promote
+
+334. OBSTINATE
+
+Syn:   stubborn resolute unyielding obdurate
+
+Ant:   submissive obedient amenable pliable
+
+335. OBSOLETE
+
+Syn:   outworn archaic antiquated obsolescent
+
+Ant:   modern novel vogue contemporary
+
+336. OBSEQUIOUS
+
+Syn:   slavish servile sycophantic subservient
+
+Ant:   insolent arrogant defiant assertive
+
+337. OBNOXIOUS
+ 8
+
+ 
+ 
+
+Syn:   pernicious detestable abhorrent offensive
+
+Ant:   attractive gratifying beneficial desirable
+
+338. OBJECTIVE
+
+Syn:   goal purpose intention resolve
+
+Ant:   origin inception deviating subjective
+
+339. PUNGENT
+
+Syn:   acute penetrating sharp strong
+
+Ant:   mild soothing pleasant palatable
+
+340. PUERILE
+
+Syn:   shallow immature childish trivial
+
+Ant:   wise farsighted profound sensible
+
+ 8
+
+ 
+ 
+341. PRUDENT
+
+Syn:   cautious discreet judicious circumspect
+
+Ant:   impetuous unwise reckless rash
+
+342. PROVOKE
+
+Syn:   inflame incite agitate aggravate
+
+Ant:   pacify comfort dissuade placate
+
+343. PROTRACT
+
+Syn:   prolong delay stretch procrastinate
+
+Ant:   abbreviate curtail abridge compress
+
+344. PROSCRIBE
+
+Syn:   prohibit exclude ban forbid
+
+Ant:   solicit include permit sanction
+ 90 / 131
+
+ 
+ 
+
+345. PROPITIATE
+
+Syn:   appease soothe pacify placate
+
+Ant:   aggravate annoy scorn displease
+
+346. PROMULGATE
+
+Syn:   declare proclaim notify announce
+
+Ant:   reserve suppress disguise withhold
+
+347. PROMISCUOUS
+
+Syn:   confused indiscriminate casual random
+
+Ant:   regular discriminate orderly select
+
+348. PROFUSE
+
+Syn:   lavish abundant generous plentiful
+
+ 91 / 131
+
+ 
+ 
+Ant:   scarce scanty meagre paucity
+
+349. PROFLIGATE
+
+Syn:   dissolute degenerate immoral flagitious
+
+Ant:   virtuous upright moral ethical
+
+350. PRODIGY
+
+Syn:   miracle marvel wonder extraordinary
+
+Ant:   normal average mediocre common
+
+351. PRODIGIOUS
+
+Syn:   vast enormous immense huge
+
+Ant:   unimpressive diminutive slight puny
+
+352. PRESUMPTUOUS
+
+Syn:   presuming arrogant affected insolent
+ 92 / 131
+
+ 
+ 
+
+Ant:   unassuming modest bashful unobtrusive
+
+353. PREMATURE
+
+Syn:   precious untimely mistimed inopportune
+
+Ant:   belated opportune timely mellow
+
+354. PREDICAMENT
+
+Syn:   plight dilemma fix quandary
+
+Ant:   resolution confidence firmness certainty
+
+355. PRECARIOUS
+
+Syn:   doubtful insecure unreliable uncertain
+
+Ant:   assured undeniable reliable substantial
+
+356. POMPOUS
+
+ 93 / 131
+
+ 
+ 
+Syn:   haughty arrogant flamboyant florid
+
+Ant:   unpretentious humble coy modest
+
+357. POISE
+
+Syn:   equanimity composure equilibrium patience
+
+Ant:   excitement vehemence frenzy outburst
+
+358. PLIGHT
+
+Syn:   predicament perplexity adversity difficulty
+
+Ant:   facility confidence certainty assurance
+
+359. PLIANT
+
+Syn:   docile amenable pliable submissive
+
+Ant:   defiant adamant rigid obdurate
+
+360. PIQUE
+ 94 / 131
+
+ 
+ 
+
+Syn:   offence resentment indignation displeasure
+
+Ant:   joy rejoice gratification pleasure
+
+361. PIQUANT
+
+Syn:   interesting charming tasteful exciting
+
+Ant:   insipid nauseating unpalatable unsavoury
+
+362.   PILLAGE
+
+Syn:   ransack ravage despoil plunder
+
+Ant:   recompense recover redeem restoration
+
+363. PERVERSE
+
+Syn:   petulant obstinate stubborn unyielding
+
+Ant:   complacent docile willing consenting
+
+ 9
+
+ 
+ 
+364. PERTNESS
+
+Syn:   flippancy impudence impertinence petulance
+
+Ant:   modesty diffidence subservient obedient
+
+365. PERSPICUITY
+
+Syn:   transparency discernment lucidity intelligibility
+
+Ant:   perplexity intricacy obscurity vagueness
+
+366. PERSEVERANCE
+
+Syn:   persistence endurance tenacity steadfastness
+
+Ant:   indolence lethargy stupor sloth
+
+367. PERSECUTE
+
+Syn:   torment harass intimidate domineer
+
+Ant:   recompense redress comfort console
+ 9
+
+ 
+ 
+
+368. PERPLEX
+
+Syn:   puzzle confound frustrate baffle
+
+Ant:   convince ascertain confident assure
+
+369. PERPETUAL
+
+Syn:   uninterrupted lasting perennial incessant
+
+Ant:   passing transient ephemeral fleeting
+
+370. PERIL
+
+Syn:   hazard danger jeopardy compulsory
+
+Ant:   caution security safely assurance
+
+371. PEREMPTORY
+
+Syn:   overbearing absolute arbitrary compulsory
+
+ 9
+
+ 
+ 
+Ant:   tolerant indecisive optional indulgent
+
+372. PENETRATE
+
+Syn:   pierce perforate insert infiltrate
+
+Ant:   discharge leak seep emerge
+
+373. PEEVISH
+
+Syn:   perverse sullen irritable fretful
+
+Ant:   suave amiable polite pleasant
+
+374. PEERLESS
+
+Syn:   matchless unrivalled unique surpassing
+
+Ant:   mediocre commonplace inferior imperfect
+
+375. PARAMOUNT
+
+Syn:   foremost eminent supreme unrivalled
+ 9
+
+ 
+ 
+
+Ant:   trivial inferior subsidiary ordinary
+
+376. PANIC
+
+Syn:   apprehension dismay alarm dread
+
+Ant:   calm confidence security tranquility
+
+377. PAMPER
+
+Syn:   spoil indulge flatter please
+
+Ant:   chasten correct deny disparage
+
+378. PALPABLE
+
+Syn:   distinct prominent plain concrete
+
+Ant:   concealed obscure intangible covert
+
+379. PALLIATE
+
+ 9
+
+ 
+ 
+Syn:   extenuate moderate alleviate soften
+
+Ant:   denounce condemn reproach reprehend
+
+380. PLACID
+
+Syn:   tranquil calm compose unruffled
+
+Ant:   turbulent hostile agitated volatile
+
+381. QUESTONABLE
+
+Syn:   uncertain disputable dubious unverifiable
+
+Ant:   positive authentic reliable substantial
+
+382. QUELL
+
+Syn:   subdue reduce suppress extinguish
+
+Ant:   exacerbate agitate foment instigate
+
+383. QUAINT
+ 100 / 131
+
+ 
+ 
+
+Syn:   queer strange odd ridiculous
+
+Ant:   familiar usual common normal
+
+384. QUACK
+
+Syn:   impostor deceiver dissembler knave
+
+Ant:   upright unfeigned trained genuine
+
+385. QUIBBLE
+
+Syn:   equivocate prevaricate evade dissemble
+
+Ant:   unfeign plain scrupulous conscientious
+
+386. QUASH
+
+Syn:   abrogate annul cancel revoke
+
+Ant:   uphold empower authorize permit
+
+ 101 / 131
+
+ 
+ 
+387. QUARANTINE
+
+Syn:   isolate separate seclude screened
+
+Ant:   gregarious amiable sociable companionable
+
+388. RUTHLESS
+
+Syn:   remorseless inhuman savage unrelenting
+
+Ant:   compassionate lenient benevolent humanitarian
+
+389. RUSTIC
+
+Syn:   pastoral bucolic rural uncivilized
+
+Ant:   cultured refined urban urbane
+
+390. ROUT
+
+Syn:   defeat overthrow vanquish subjugate
+
+Ant:   succumb withdraw retreat consolidate
+ 102 / 131
+
+ 
+ 
+
+391. RIGHTEOUS
+
+Syn:   virtuous honest upright just
+
+Ant:   unjust immortal unprincipled unfair
+
+392. REVERENCE
+
+Syn:   respect esteem regard veneration
+
+Ant:   disrespect dishonour affront offence
+
+393. REVEAL
+
+Syn:   disclose expose unfold divulge
+
+Ant:   hide conceal confine cover
+
+394. RETRACT
+
+Syn:   recant repudiate revoke withdraw
+
+ 103 / 131
+
+ 
+ 
+Ant:   confirm assert declare affirm
+
+395. REMOTE
+
+Syn:   inaccessible farther distant slight
+
+Ant:   adjoining adjacent proximate contiguous
+
+396. REMORSE
+
+Syn:   regret penitence deplore lament
+
+Ant:   ruthless obduracy pitiless relentless
+
+397. RESENTMENT
+
+Syn:   displeasure wrath ire bitterness
+
+Ant:   content cheer pleasure agreement
+
+398. RESCIND
+
+Syn:   annul abrogate revoke repeal
+ 104 / 131
+
+ 
+ 
+
+Ant:   delegate permit authorize propose
+
+399. REPULSIVE
+
+Syn:   repellent forbidding hideous detestable
+
+Ant:   agreeable enticing attractive alluring
+
+400. REPUGNANT
+
+Syn:   hostile offensive disagreeable distasteful
+
+Ant:   agreeable pleasant friendly tasteful
+
+401. REMONSTRATE
+
+Syn:   censure protest argue expostulate
+
+Ant:   agree laud endorse commend
+
+402.   REMNANT
+
+ 10
+
+ 
+ 
+Syn:   residue piece part remainder
+
+Ant:   entire whole complete unbroken
+
+403. RELINQUISH
+
+Syn:   forsake abandon surrender abdicate
+
+Ant:   persist continue occupy hold
+
+404. REDRESS
+
+Syn:   relief restoration remedy repair
+
+Ant:   retribution forfeiture harm degenerate
+
+405. REDEEM
+
+Syn:   recover liberate fulfill rescue
+
+Ant:   lose barter neglect conserve
+
+406. RAZE
+ 10
+
+ 
+ 
+
+Syn:   demolish destroy annihilate dismantle
+
+Ant:   restore construct repair build
+
+407. RAVISH
+
+Syn:   captivate enchant seize charm
+
+Ant:   disgust annoy displease oppress
+
+408. RAVAGE
+
+Syn:   devastate destroy ruin despoil
+
+Ant:   restore organize reconstruct renovate
+
+409. RATIFY
+
+Syn:   consent approve endorse corroborate
+
+Ant:   deny contradict dissent oppose
+
+ 10
+
+ 
+ 
+410. RAPTURE
+
+Syn:   bliss delight pleasure ecstasy
+
+Ant:   melancholy distress sorrow agonize
+
+411. RAPID
+
+Syn:   swift fast speedy accelerate
+
+Ant:   sluggish lethargic languid listless
+
+412. RANCOUR
+
+Syn:   hatred malice resentment bitterness
+
+Ant:   love regards respect friendliness
+
+413. RADIANCE
+
+Syn:   glow brilliance splendour gleaming
+
+Ant:   dullness shady overcast dusky
+ 10
+
+ 
+ 
+
+414. SYCOPHANT
+
+Syn:   parasite flatterer cringing servile
+
+Ant:   devoted loyal truthful faithful
+
+415. SWAY
+
+Syn:   influence control command power
+
+Ant:   impotence futility disability incapacity
+
+416. SUPERFLUOUS
+
+Syn:   excessive surplus redundant unnecessary
+
+Ant:   scanty inadequate dearth scarce
+
+417. SUPERFICIAL
+
+Syn:   partial shallow cursory flimsy
+
+ 10
+
+ 
+ 
+Ant:   profound discerning substantial deep
+
+418. SUBVERT
+
+Syn:   overthrow suppress demolish sabotage
+
+Ant:   accomplish sustain generate organize
+
+419. SUBSTANTIAL
+
+Syn:   durable lasting concrete tangible
+
+Ant:   tenuous abstract fragile immaterial
+
+420. SUBSEQUENT
+
+Syn:   consequent following later afterwards
+
+Ant:   preceding previous prior earlier
+
+421. STUPOR
+
+Syn:   lethargy insensibility unconsciousness coma
+ 1
+
+ 
+ 
+
+Ant:   consciousness sensibility sensitive feeling
+
+422. STERN
+
+Syn:   harsh severe austere rigorous
+
+Ant:   lenient considerate benevolent generous
+
+423. STAIN
+
+Syn:   blemish tarnish disgrace stigma
+
+Ant:   honour purify virtuous noble
+
+424. STABLE
+
+Syn:   abiding lasting steadfast constant
+
+Ant:   erratic wavering unsteady restless
+
+425. SQUALID
+
+ 1
+
+ 
+ 
+Syn:   dirty soiled filthy odious
+
+Ant:   attractive tidy polished spruce
+
+426. SPURIOUS
+
+Syn:   counterfeit adulterated fake fraudulent
+
+Ant:   genuine positive original sincere
+
+427. SPORADIC
+
+Syn:   intermittent scattered isolated infrequent
+
+Ant:   incessant frequent constant regular
+
+428. SPONTANEOUS
+
+Syn:   unforced instinctive sudden unintentional
+
+Ant:   intended devised premeditated intentional
+
+429. SOLICIT
+ 1
+
+ 
+ 
+
+Syn:   entreat implore approach accost
+
+Ant:   protest oppose prohibit disapprove
+
+430. SNEER
+
+Syn:   mock scorn despise spurn
+
+Ant:   flatter praise  encourage laud
+
+431. SLANDER
+
+Syn:   defame malign detract despise
+
+Ant:   applaud approve commend exalt
+
+432. SINISTER
+
+Syn:   woeful disastrous evil ruinous
+
+Ant:   auspicious fortunate propitious harmless
+
+ 1
+
+ 
+ 
+433. SHREWD
+
+Syn:   running observant crafty artful
+
+Ant:   thoughtless rash simple imbecile
+
+434. SHALLOW
+
+Syn:   trivial slight superficial insubstantial
+
+Ant:   profound wise substantial deep
+
+435. SHABBY
+
+Syn:   miserable impoverished deteriorated impaired
+
+Ant:   prosperous thriving restoring flourishing
+
+436. SCANTY
+
+Syn:   scarce insufficient paucity sparseness
+
+Ant:   lavish luxuriant multitude several
+ 1
+
+ 
+ 
+
+437. SCANDAL
+
+Syn:   disgrace disrepute indignity defamation
+
+Ant:   praise admiration flattery adulation
+
+438. SAUCY
+
+Syn:   impudent insolent brazen impertinent
+
+Ant:   modest humble esteem meek
+
+439. SARCASTIC
+
+Syn:   derisive ironical sardonic invective
+
+Ant:   courteous complaisant gracious polite
+
+440. SANGUINE
+
+Syn:   hopeful optimistic buoyant confident
+
+ 11
+
+ 
+ 
+Ant:   despondent pessimistic depressed despairing
+
+441. SALUTARY
+
+Syn:   wholesome salubrious healthful beneficial
+
+Ant:   harmful deleterious pernicious ruinous
+
+442. TYRO
+
+Syn:   beginner learner novice debutant
+
+Ant:   proficient veteran dept connoisseur
+
+443. TUMULTUOUS
+
+Syn:   uproarious violent disorderly riotous
+
+Ant:   peaceful passive orderly harmonious
+
+444. TRIVIAL
+
+Syn:   trifling insignificant frivolous worthless
+ 11
+
+ 
+ 
+
+Ant:   significant important consequential essential
+
+445. TRITE
+
+Syn:   ordinary commonplace stale hackneyed
+
+Ant:   interesting extraordinary becoming proper
+
+446. TRENCHANT
+
+Syn:   assertive forceful sharp spirited
+
+Ant:   feeble ambiguous shallow vacillating
+
+447. TREACHEROUS
+
+Syn:   faithless deceitful disloyal unreliable
+
+Ant:   faithful reliable dependable trustworthy
+
+448. TRANSIENT
+
+ 11
+
+ 
+ 
+Syn:   temporal transitory fleeting passing
+
+Ant:   lasting enduring perpetual immortal
+
+449. TRANQUIL
+
+Syn:   peaceful composed calm placid
+
+Ant:   violent furious restless distracting
+
+450. TORTURE
+
+Syn:   torment agony pang oppress
+
+Ant:   comfort consolation pleasure delight
+
+451. TIMID
+
+Syn:   modest humble diffident apprehensive
+
+Ant:   bold intrepid undaunted courageous
+
+452. THRONG
+ 11
+
+ 
+ 
+
+Syn:   assembly gathering congregation crowd
+
+Ant:   dispersion scattering handful sparsity
+
+453. TENACIOUS
+
+Syn:   resolved resolute determined dogged
+
+Ant:   vacillating timid wavering unstable
+
+454. TEMPERATE
+
+Syn:   cool moderate reasonable lenient
+
+Ant:   boisterous vehement violent excessive
+
+455. TEMERITY
+
+Syn:   boldness audacity imprudence indiscretion
+
+Ant:   discretion prudence caution wisdom
+
+ 11
+
+ 
+ 
+456. TEDIOUS
+
+Syn:   wearisome irksome tiring monotonous
+
+Ant:   exhilarating lively delightful diverting
+
+457. TAINTED
+
+Syn:   contaminated corrupt vitiated polluted
+
+Ant:   unblemished wholesome restorative pure
+
+458. TACITURN
+
+Syn:   reserved uncommunicative silent reticent
+
+Ant:   talkative loquacious garrulous extrovert
+
+459. TABOO
+
+Syn:   prohibit prevent forbid ban
+
+Ant:   permit sanction consent license
+ 1
+
+ 
+ 
+
+460. UTTERLY
+
+Syn:   completely entirely extremely wholly
+
+Ant:   deficient incomplete insufficient partial
+
+461. USURP
+
+Syn:   seize wrest encroach coup
+
+Ant:   restore compensate grant reinstate
+
+462. UNSEEMLY
+
+Syn:   undesirable inappropriate uncouth awkward
+
+Ant:   becoming acceptable decorous admirable
+
+463. UNGAINLY
+
+Syn:   clumsy unskilled immature slovenly
+
+ 1
+
+ 
+ 
+Ant:   active expert skilful dexterous
+
+464. UNCOUTH
+
+Syn:   awkward ungraceful inelegant vulgar
+
+Ant:   elegant graceful distinguished shapely
+
+465. UMBRAGE
+
+Syn:   resentment bitterness dissatisfaction offence
+
+Ant:   sympathy goodwill amity esteem
+
+466. VULGAR
+
+Syn:   inelegant offensive nasty ungraceful
+
+Ant:   refined graceful elegant civil
+
+467. VOUCH
+
+Syn:   confirm consent approve endorse
+ 1
+
+ 
+ 
+
+Ant:   repudiate prohibit recant retract
+
+468. VOLATILE
+
+Syn:   light changing transient temporal
+
+Ant:   heavy ponderous perpetual stable
+
+469.VIGILANT
+
+Syn:   cautious alert wary circumspect
+
+Ant:   careless negligent inattentive casual
+
+470. VICIOUS
+
+Syn:   corrupt obnoxious degraded demoralized
+
+Ant:   noble virtuous innocent under-filed
+
+471. VIBRATE
+
+ 1
+
+ 
+ 
+Syn:   swing oscillate fluctuate undulate
+
+Ant:   cease pause rest discontinue
+
+472. VENOM
+
+Syn:   poison resentment malevolence rancour
+
+Ant:   antidote remedy benevolent sympathetic
+
+473. VENERABLE
+
+Syn:   esteemed honoured respectable worthy
+
+Ant:   unworthy immature degrade degenerate
+
+474. VANITY
+
+Syn:   conceit pretension immodesty pride
+
+Ant:   modesty humility meek bashful
+
+475. VALOUR
+ 1
+
+ 
+ 
+
+Syn:   bravery prowess heroism chivalry
+
+Ant:   fear cowardice unmanliness
+
+476. VALID
+
+Syn:   sound authentic genuine reliable
+
+Ant:   fallacious deceptive dubious uncertain
+
+477. VALIANT
+
+Syn:   brave gallant courageous chivalrous
+
+Ant:   fearful afraid coward dastardly
+
+478. VAGRANT
+
+Syn:   idle roaming wanderer roving
+
+Ant:   steady settled stationary stable
+
+ 12
+
+ 
+ 
+479.  WAIVE
+
+Syn:   relinquish remove abjure renounce
+
+Ant:   impose clamp grasp retain
+
+480. WARY
+
+Syn:   cautious circumspect prudent chary
+
+Ant:   heedless negligent impulsive reckless
+
+481. WICKED
+
+Syn:   immoral dissolute vicious nefarious
+
+Ant:   virtuous ethical innocent noble
+
+482. WITHHOLD
+
+Syn:   reserve restrain hamper retard
+
+Ant:   emancipate liberate dispense release
+ 12
+
+ 
+ 
+
+483. WANE
+
+Syn:   decline dwindle decrease deteriorate
+
+Ant:   ameliorate rise revive wax
+
+484. WAYWARD
+
+Syn:   volatile capricious unstable inconstant
+
+Ant:   stable determined resolute straight
+
+485. WILT
+
+Syn:   wither perish deteriorate smother
+
+Ant:   revive bloom refresh restore
+
+486. WIELD
+
+Syn:   use exercise exert employ
+
+ 12
+
+ 
+ 
+Ant:   abstain avoid forbear forgo
+
+487. WAN
+
+Syn:   pale fade discolour feeble
+
+Ant:   bright healthy colourful gaudy
+
+488. WILFUL
+
+Syn:   stubborn obstinate obdurate inexorable
+
+Ant:   amenable irresolute pliable yielding
+
+489. YOKE
+
+Syn:   connect harness hitch shackle
+
+Ant:   liberate release detach disconnect
+
+490. YIELD
+
+Syn:   surrender abdicate succumb consent
+ 12
+
+ 
+ 
+
+Ant:   resist protest prohibit forbid
+
+491. YELL
+
+Syn:   shout shriek exclaim gesticulate
+
+Ant:   suppress whisper muffled muted
+
+492. YEARN
+
+Syn:   languish crave require pine
+
+Ant:   content unwanted satisfied gratified
+
+493. YAWN
+
+Syn:   gape sleepy slumber doze
+
+Ant:   close active brisk wakeful
+
+494. ZIGZAG
+
+ 12
+
+ 
+ 
+Syn:   oblique crooked winding wayward
+
+Ant:   straight even direct unbent
+
+495. ZEST
+
+Syn:   delight enthusiasm various energetic
+
+Ant:   disgust passive detriment languid
+
+496. ZENITH
+
+Syn:   summit apex maximum pinnacle
+
+Ant:   nadir base bottom floor
+
+497. ZEALOT
+
+Syn:   fanatic partisan bigot chauvinist
+
+Ant:   tolerant liberal blasphemy impious
+
+498. ZEAL
+
+Syn:   eagerness fervour enthusiasm ardour
+
+Ant:   apathy lethargy indifference reluctant 
+
+500: good
+
+Syn:   Impressive exquisite suberp elegant
+
+Ant:   bad unsatisfactory awful appalling 
+
+500: disappointed
+
+Syn:   demoralized discouraged upset saddened
+
+Ant:   encourage pleased satisfied fulfilled  
+
+500: various
+
+Syn:   many different discrete diverse
+
+Ant:   similar combined joined connected 
+
+500: algorithms
+
+Syn:   ways methods
+
+Ant:   randomness 
+
+500: demonstrated
+
+Syn:   elucidated explained showed
+
+Ant:   conceal 
+
+500: freedom
+
+Syn:   liberty
+
+Ant:   oppression 
+
+500: common
+
+Syn:   likely
+
+Ant:   rare scarce 
+
+500: develop
+
+Syn:   improve
+
+Ant:   deteriorate 
+
+500: experience
+
+Syn:   encounter
+
+Ant:   inexperience 
+
+500: great
+
+Syn:   impressive
+
+Ant:   ordinary
